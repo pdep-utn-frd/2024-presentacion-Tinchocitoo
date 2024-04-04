@@ -1,10 +1,7 @@
-# presentacion-
+# presentacion 
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+- Hola mi nombre es Martín Díaz y tengo 19 años.
+- Actualmente me encuentro en mi segundo año de la carrera, elegí sistemas porque es lo que me apasiona y quiero para mi futuro.
+- En mis tiempos libres me gusta jugar a la pelota e ir al gimnasio.
 
-Ya saben usar git!
+
